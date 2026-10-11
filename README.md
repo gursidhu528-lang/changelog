@@ -1,1 +1,106 @@
-IyBDaGFuZ2Vsb2cg4oCUIHRoZSBmcmVlIHNlbGYtaG9zdGVkICJXaGF0J3MgbmV3IiB0b29sCgpbIVtNSVQgTGljZW5zZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9saWNlbnNlLU1JVC1ncmVlbi5zdmcpXShMSUNFTlNFKQpbIVtEb2NrZXJdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZG9ja2VyLXJlYWR5LWJsdWUuc3ZnKV0oZG9ja2VyLWNvbXBvc2UueW1sKQpbIVtObyB0cmFja2luZ10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS90cmFja2luZy1ub25lLWJyaWdodGdyZWVuLnN2ZyldKCMpCgoqKllvdXIgcHJvZHVjdCBzaGlwcyB1cGRhdGVzLiBZb3VyIHVzZXJzIHNob3VsZCBzZWUgdGhlbS4qKiBUaGlzIGlzIGEgZnJlZSwgc2VsZi1ob3N0ZWQgY2hhbmdlbG9nIHBhZ2UgKyAiV2hhdCdzIG5ldyIgd2lkZ2V0ICsgZW1haWwgZGlnZXN0cyDigJQgdGhlIG9wZW4tc291cmNlIGFsdGVybmF0aXZlIHRvIEJlYW1lciAoJDQ54oCTMTE5L21vKS4KCk9uZSBjb21tYW5kLCB5b3VyIG93biBzZXJ2ZXIsIHlvdXIgZGF0YS4gTm8gc3Vic2NyaXB0aW9ucywgbm8gcGVyLXZpZXdlciBwcmljaW5nLCBubyB0cmFja2luZyBwaXhlbHMgcGhvbmluZyBob21lLgoKPiAqKlNjcmVlbnNob3Q6KiogKihhZGQgeW91cnMgaGVyZSkqCj4gYGRvY3Mvc2NyZWVuc2hvdC1jaGFuZ2Vsb2cucG5nYCDigJQgdGhlIHB1YmxpYyBjaGFuZ2Vsb2cgcGFnZQo+IGBkb2NzL3NjcmVlbnNob3Qtd2lkZ2V0LnBuZ2Ag4oCUIHRoZSBlbWJlZGRhYmxlICJXaGF0J3MgbmV3IiB3aWRnZXQKPiBgZG9jcy9zY3JlZW5zaG90LWFkbWluLnBuZ2Ag4oCUIHRoZSBhZG1pbiBkYXNoYm9hcmQKCi0tLQoKIyMgMzAtc2Vjb25kIHBpdGNoCgotIPCfk50gKipCZWF1dGlmdWwgY2hhbmdlbG9nIHBhZ2UqKiDigJQgY2xlYW4sIGZhc3QsIG1vYmlsZS1mcmllbmRseS4gVmVyc2lvbiB0YWdzLCBkYXRlcywgbWFya2Rvd24gZW50cmllcy4KLSDwn5SUICoqIldoYXQncyBuZXciIHdpZGdldCoqIOKAlCBvbmUgYDxzY3JpcHQ+YCB0YWcgYWRkcyBhIG5vdGlmaWNhdGlvbiBiZWxsIHdpdGggYW4gdW5yZWFkIGJhZGdlIHRvIHlvdXIgc2l0ZS4KLSDwn5OnICoqRW1haWwgZGlnZXN0cyoqIOKAlCBjb2xsZWN0IHN1YnNjcmliZXJzLCBzZW5kIGEgZGlnZXN0IHdoZW4geW91IHNoaXAgKGJyaW5nIHlvdXIgb3duIFNNVFAsIG9yIGNvcHkgdGhlIEhUTUwpLgotIPCfk6EgKipSU1MgZmVlZCoqIOKAlCBhdXRvbWF0aWMsIGF0IGAvZmVlZC54bWxgLgotIPCfkJkgKipHaXRIdWIgaW1wb3J0Kiog4oCUIHBvaW50IGl0IGF0IGFueSBwdWJsaWMgcmVwbywgZ2V0IGNoYW5nZWxvZyBlbnRyaWVzIGZyb20gaXRzIHJlbGVhc2VzIGluIG9uZSBjbGljay4KLSDwn5SSICoqMTAwJSBzZWxmLWhvc3RlZCoqIOKAlCBTUUxpdGUsIG9uZSBEb2NrZXIgY29udGFpbmVyLCBubyBhY2NvdW50cywgbm8gcGhvbmUtaG9tZS4KCi0tLQoKIyMgUXVpY2tzdGFydAoKYGBgYmFzaApnaXQgY2xvbmUgPHRoaXMtcmVwbz4gJiYgY2QgY2hhbmdlbG9nLXRvb2wKY3AgLmVudi5leGFtcGxlIC5lbnYgICAgICAgICMgc2V0IEFETUlOX1BBU1NXT1JECmRvY2tlciBjb21wb3NlIHVwIC1kICAgICAgICAjIGRvbmUuIG9wZW4gaHR0cDovL2xvY2FsaG9zdDozMDAwCmBgYAoKVGhlbjoKMS4gT3BlbiBgaHR0cDovL2xvY2FsaG9zdDozMDAwL2FkbWluYCwgc2lnbiBpbiB3aXRoIHlvdXIgYEFETUlOX1BBU1NXT1JEYC4KMi4gUnVuIGBucG0gcnVuIHNlZWRgIChvciBgZG9ja2VyIGNvbXBvc2UgZXhlYyBjaGFuZ2Vsb2cgbm9kZSBzZWVkLmpzYCkgZm9yIGRlbW8gZGF0YSDigJQgb3IgY2xpY2sgKipJbXBvcnQqKiBhbmQgcHVsbCByZWxlYXNlcyBmcm9tIHlvdXIgR2l0SHViIHJlcG8uCjMuIFBhc3RlIHRoZSB3aWRnZXQgc25pcHBldCAoc2hvd24gaW4gKipTZXR0aW5ncyoqKSBvbnRvIHlvdXIgc2l0ZS4KCiMjIyBXaXRob3V0IERvY2tlcgoKYGBgYmFzaApucG0gaW5zdGFsbApjcCAuZW52LmV4YW1wbGUgLmVudiAgICAgICAgIyBzZXQgQURNSU5fUEFTU1dPUkQKbnBtIHJ1biBzZWVkICAgICAgICAgICAgICAgICMgb3B0aW9uYWwgZGVtbyBkYXRhCm5wbSBydW4gYnVpbGQgJiYgbnBtIHN0YXJ0ICAjIGh0dHA6Ly9sb2NhbGhvc3Q6MzAwMApgYGAKCiMjIFdoeSBmcmVlPwoKQmVhbWVyIGNoYXJnZXMgJDQ54oCTMTE5L21vbnRoIGZvciBhIGNoYW5nZWxvZyB3aWRnZXQuIExhdW5jaE5vdGVzIGNoYXJnZXMgJDI5L3VzZXIvbW9udGguIFRoYXQncyByZW50IG9uIHlvdXIgb3duIHByb2R1Y3QgdXBkYXRlcy4KCkEgY2hhbmdlbG9nIGlzIGEgc29sdmVkIHByb2JsZW06IGEgbGlzdCBvZiBkYXRlZCBlbnRyaWVzLCBhIHdpZGdldCwgYW4gUlNTIGZlZWQuIEl0IGRvZXNuJ3QgbmVlZCBhIFNhYVMuIFRoaXMgcHJvamVjdCBleGlzdHMgc28gaW5kaWUgaGFja2VycyBuZXZlciBwYXkgYSBtb250aGx5IHRheCBmb3IgdGVsbGluZyB0aGVpciB1c2VycyB3aGF0J3MgbmV3LgoKKipUaGUgZGVhbDoqKiBmcmVlIGZvcmV2ZXIgZm9yIHNlbGYtaG9zdGluZy4gSWYgeW91IHdhbnQgYSBob3N0ZWQgY2xvdWQgdmVyc2lvbiBvbmUgZGF5LCB0aGF0J3MgYSBzZXBhcmF0ZSBjb252ZXJzYXRpb24g4oCUIHRoZSBzZWxmLWhvc3RlZCBjb3JlIHN0YXlzIE1JVC4KCiMjIEZlYXR1cmVzCgp8IHwgVGhpcyBwcm9qZWN0IHwgQmVhbWVyIHwKfC0tLXwtLS18LS0tfAp8IENoYW5nZWxvZyBwYWdlIHwg4pyFIHwg4pyFIHwKfCAiV2hhdCdzIG5ldyIgd2lkZ2V0IHwg4pyFIHwg4pyFIHwKfCBFbWFpbCBkaWdlc3RzIHwg4pyFIChvd24gU01UUCkgfCDinIUgfAp8IFJTUyBmZWVkIHwg4pyFIHwg4p2MIHwKfCBHaXRIdWIgcmVsZWFzZSBpbXBvcnQgfCDinIUgfCDinYwgfAp8IFNlbGYtaG9zdGVkIHwg4pyFIHwg4p2MIHwKfCBQcmljZSB8ICoqJDAqKiB8ICQ0OeKAkzExOS9tbyB8CgojIyBDb25maWd1cmF0aW9uCgpBbGwgdmlhIGVudmlyb25tZW50IHZhcmlhYmxlcyAoc2VlIGAuZW52LmV4YW1wbGVgKToKCnwgVmFyaWFibGUgfCBSZXF1aXJlZCB8IFdoYXQgfAp8LS0tfC0tLXwtLS18CnwgYEFETUlOX1BBU1NXT1JEYCB8IOKchSB8IFBhc3N3b3JkIGZvciBgL2FkbWluYCB8CnwgYERBVEFfRElSYCB8IOKAlCB8IFNRTGl0ZSBsb2NhdGlvbiAoZGVmYXVsdCBgLi9kYXRhYDsgYC9kYXRhYCBpbiBEb2NrZXIpIHwKfCBgR0lUSFVCX1RPS0VOYCB8IOKAlCB8IFJhaXNlcyBHaXRIdWIgaW1wb3J0IHJhdGUgbGltaXQgKDYwIOKGkiA1LDAwMC9ocikgfAp8IGBTTVRQX0hPU1QvUE9SVC9VU0VSL1BBU1MvRlJPTWAgfCDigJQgfCBFbmFibGVzIG9uZS1jbGljayBkaWdlc3Qgc2VuZGluZyB8CnwgYE5FWFRfUFVCTElDX1NJVEVfVVJMYCB8IOKAlCB8IENhbm9uaWNhbCBVUkwgZm9yIFJTUyAoYXV0by1kZXRlY3RlZCBvdGhlcndpc2UpIHwKCiMjIFRoZSB3aWRnZXQKCmBgYGh0bWwKPHNjcmlwdCBzcmM9Imh0dHBzOi8vWU9VUi1ET01BSU4vd2lkZ2V0LmpzIiBhc3luYz48L3NjcmlwdD4KYGBgCgpPcHRpb25hbCBvdmVycmlkZXM6IGBkYXRhLXBvc2l0aW9uPSJib3R0b20tbGVmdCJgLCBgZGF0YS1hY2NlbnQ9IiMyNTYzZWIiYC4gVGhlIHdpZGdldCBmZXRjaGVzIGZyb20geW91ciBvd24gZG9tYWluIOKAlCBubyB0aGlyZCBwYXJ0aWVzLCBubyBjb29raWVzLCBmYWlscyBzaWxlbnRseSBpZiB5b3VyIHNlcnZlciBpcyBkb3duIChpdCBuZXZlciBicmVha3MgeW91ciBwYWdlKS4KCiMjIFJvYWRtYXAKCi0gWyBdIE11bHRpLXVzZXIgYWRtaW4gKGN1cnJlbnRseSBzaW5nbGUgcGFzc3dvcmQpCi0gWyBdIFNjaGVkdWxlZCBkaWdlc3Qgc2VuZGluZyAoY3VycmVudGx5IG1hbnVhbCkKLSBbIF0gV2ViaG9va3Mgb24gbmV3IHB1Ymxpc2ggKERpc2NvcmQvU2xhY2spCi0gWyBdIFNjaGVkdWxlZCBHaXRIdWIgcmUtaW1wb3J0cwotIFsgXSBIb3N0ZWQgY2xvdWQgb3B0aW9uIChzZXBhcmF0ZSwgcGFpZCDigJQgY29yZSBzdGF5cyBmcmVlKQoKIyMgQ29udHJpYnV0aW5nCgpQUnMgd2VsY29tZS4gS2VlcCBpdCBkZXBlbmRlbmN5LWxpZ2h0LCBrZWVwIHRoZSBVSSBjbGVhbiwga2VlcCBpdCBib3JpbmcgaW4gdGhlIGJlc3Qgd2F5LiBTZWUgb3BlbiBpc3N1ZXMgZm9yIHRoZSByb2FkbWFwLgoKIyMgTGljZW5zZQoKTUlUIOKAlCBkbyB3aGF0ZXZlciB5b3Ugd2FudC4gSWYgaXQgc2F2ZXMgeW91ICQ0OS9tb250aCwgY29uc2lkZXIgc3RhcnJpbmcgdGhlIHJlcG8uCg==
+# Changelog — the free self-hosted "What's new" tool
+
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Docker](https://img.shields.io/badge/docker-ready-blue.svg)](docker-compose.yml)
+[![No tracking](https://img.shields.io/badge/tracking-none-brightgreen.svg)](#)
+
+**Your product ships updates. Your users should see them.** A free, self-hosted changelog page + "What's new" widget + email digests — the open-source alternative to Beamer ($49–119/mo).
+
+One command, your own server, your data. No subscriptions, no per-viewer pricing, no tracking pixels phoning home.
+
+![The public changelog page](screenshots/changelog-page.png)
+
+---
+
+## The problem
+
+Beamer charges **$49–119/month** for a changelog widget. LaunchNotes charges $29/user/month. That's rent on your own product updates.
+
+A changelog is a solved problem: a list of dated entries, a widget, an RSS feed. It doesn't need a SaaS.
+
+## The solution
+
+This project exists so indie hackers never pay a monthly tax for telling their users what's new. **Free forever for self-hosting** — MIT licensed, SQLite, one Docker container.
+
+---
+
+## Features
+
+- 📝 **Beautiful changelog page** — clean, fast, mobile-friendly. Version tags, dates, markdown entries, tag filters.
+- 🔔 **"What's new" widget** — one `<script>` tag adds a notification bell with an unread badge to your site. No third parties, no cookies.
+
+![The "What's new" widget embedded on a site](screenshots/widget.png)
+
+- 📧 **Email digests** — collect subscribers, send a styled digest when you ship (bring your own SMTP).
+- 📡 **RSS feed** — automatic, at `/feed.xml`.
+- 🐙 **GitHub import** — point it at any public repo, get changelog entries from its releases in one click.
+- 🔒 **Password-protected admin** — manage entries, subscribers, and branding from `/admin`.
+- 🎨 **Branding controls** — product name, accent color, widget position, all in Settings.
+
+| | This project | Beamer |
+|---|---|---|
+| Changelog page | ✅ | ✅ |
+| "What's new" widget | ✅ | ✅ |
+| Email digests | ✅ (own SMTP) | ✅ |
+| RSS feed | ✅ | ❌ |
+| GitHub release import | ✅ | ❌ |
+| Self-hosted | ✅ | ❌ |
+| Price | **$0** | $49–119/mo |
+
+---
+
+## Quickstart
+
+```bash
+git clone https://github.com/gursidhu528-lang/changelog.git && cd changelog
+cp .env.example .env        # set ADMIN_PASSWORD
+docker compose up -d        # done. open http://localhost:3000
+```
+
+Then:
+1. Open `http://localhost:3000/admin`, sign in with your `ADMIN_PASSWORD`.
+2. Run `npm run seed` (or `docker compose exec changelog node seed.js`) for demo data — or click **Import** and pull releases from your GitHub repo.
+3. Paste the widget snippet (shown in **Settings**) onto your site:
+
+```html
+<script src="https://YOUR-DOMAIN/widget.js" async></script>
+```
+
+Optional overrides: `data-position="bottom-left"`, `data-accent="#2563eb"`. The widget fetches from your own domain — no third parties, no cookies, fails silently if your server is down (it never breaks your page).
+
+### Without Docker
+
+```bash
+npm install
+cp .env.example .env        # set ADMIN_PASSWORD
+npm run seed                # optional demo data
+npm run build && npm start  # http://localhost:3000
+```
+
+## Configuration
+
+All via environment variables (see `.env.example`):
+
+| Variable | Required | What |
+|---|---|---|
+| `ADMIN_PASSWORD` | ✅ | Password for `/admin` |
+| `DATA_DIR` | — | SQLite location (default `./data`; `/data` in Docker) |
+| `GITHUB_TOKEN` | — | Raises GitHub import rate limit (60 → 5,000/hr) |
+| `SMTP_HOST/PORT/USER/PASS/FROM` | — | Enables one-click digest sending |
+| `NEXT_PUBLIC_SITE_URL` | — | Canonical URL for RSS (auto-detected otherwise) |
+
+## Roadmap
+
+- [ ] Multi-user admin (currently single password)
+- [ ] Scheduled digest sending (currently manual)
+- [ ] Webhooks on new publish (Discord/Slack)
+- [ ] Scheduled GitHub re-imports
+- [ ] Hosted cloud option (separate, paid — core stays free)
+
+## Contributing
+
+PRs welcome. Keep it dependency-light, keep the UI clean, keep it boring in the best way. See open issues for the roadmap.
+
+## License
+
+MIT — do whatever you want. If it saves you $49/month, consider starring the repo.
